@@ -23,3 +23,16 @@
 - **jQuery** – for simplified DOM manipulation and event handling  
 
 ---
+
+## 📁 Project Structure
+
+/simon-game
+├── index.html # Main game interface
+├── styles.css # Game styling
+├── game.js # Core game logic
+└── /sounds # Audio for buttons and game over
+├── red.mp3
+├── blue.mp3
+├── green.mp3
+├── yellow.mp3
+└── wrong.mp3
